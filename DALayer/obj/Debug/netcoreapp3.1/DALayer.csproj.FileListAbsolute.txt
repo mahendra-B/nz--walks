@@ -1,0 +1,13 @@
+E:\nz_walks\DALayer\bin\Debug\netcoreapp3.1\DALayer.deps.json
+E:\nz_walks\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.json
+E:\nz_walks\DALayer\bin\Debug\netcoreapp3.1\DALayer.runtimeconfig.dev.json
+E:\nz_walks\DALayer\bin\Debug\netcoreapp3.1\DALayer.dll
+E:\nz_walks\DALayer\bin\Debug\netcoreapp3.1\DALayer.pdb
+E:\nz_walks\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.AssemblyReference.cache
+E:\nz_walks\DALayer\obj\Debug\netcoreapp3.1\DALayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\nz_walks\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfoInputs.cache
+E:\nz_walks\DALayer\obj\Debug\netcoreapp3.1\DALayer.AssemblyInfo.cs
+E:\nz_walks\DALayer\obj\Debug\netcoreapp3.1\DALayer.csproj.CoreCompileInputs.cache
+E:\nz_walks\DALayer\obj\Debug\netcoreapp3.1\DALayer.dll
+E:\nz_walks\DALayer\obj\Debug\netcoreapp3.1\DALayer.pdb
+E:\nz_walks\DALayer\obj\Debug\netcoreapp3.1\DALayer.genruntimeconfig.cache
