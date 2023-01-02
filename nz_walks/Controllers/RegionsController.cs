@@ -58,5 +58,19 @@ namespace nz_walks.Controllers
             }
 
         }
+        [HttpPut("updateregion")]
+        public IActionResult Updateregion(Region obj)
+        {
+            try
+            {
+                ser.Update(obj);
+                return Ok("record updated...");
+            }
+            catch(Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+            
+        }
     }
 }

@@ -8,7 +8,7 @@ namespace DALayer.Repo
     {
         IEnumerable<T> GetAll();
 
-        T GetById(object id);
+        IEnumerable<T> GetById(object id);
 
         void Insert(T obj);
 
